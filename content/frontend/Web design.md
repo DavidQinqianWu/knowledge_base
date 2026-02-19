@@ -5,6 +5,6 @@
 5. 60(mainly black white gray) 30 (your brand , topic color) 10 (for accent for call actions to distinct your button )
 6. H1 heading , H2 heading , P tag 
 7. conversion practice (reducing friction for users) , stupid easy for users to find and buy thing.
-	1. clearity
-	2. scanability
+	1. Clarity
+	2. Scanability
 	3. Motivation
